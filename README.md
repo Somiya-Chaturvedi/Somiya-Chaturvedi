@@ -5,8 +5,6 @@ Hey there! 👋 I'm Somiya
 - 🎨 Tried designing too — tough love! Not easy, but I’m learning to blend creativity with logic.  
 - ⚡ I chase projects that challenge me and ideas that make a difference.  
 - 📌 "Win once, they’ll call it luck. Win again, and you’ll prove it was you all along."
-- ## 🌐 Socials:
-
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
