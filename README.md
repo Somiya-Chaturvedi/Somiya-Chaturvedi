@@ -15,4 +15,22 @@ Hey there! 👋 I'm Somiya
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Somiya-Chaturvedi&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Somiya-Chaturvedi.Somiya-Chaturvedi&"  />
+</div>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Somiya-Chaturvedi/Somiya-Chaturvedi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Somiya-Chaturvedi/Somiya-Chaturvedi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Somiya-Chaturvedi/Somiya-Chaturvedi/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Somiya-Chaturvedi.Somiya-Chaturvedi&"  />
+</div>
+
+###
