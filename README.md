@@ -1,15 +1,13 @@
-<!-- Pacman Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Somiya-Chaturvedi/Somiya-Chaturvedi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Somiya-Chaturvedi/Somiya-Chaturvedi/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Somiya-Chaturvedi/Somiya-Chaturvedi/output/pacman-contribution-graph.svg">
-</picture>
+<!-- Profile Summary Card -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Somiya-Chaturvedi&theme=github_dark" />
+</div>
 
 ---
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Somiya+Chaturvedi;Java+%7C+Web+Dev+%7C+AI%2FML+Enthusiast;From+Hello+World+to+Dream+Projects+💫" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F4C2C2&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Somiya+Chaturvedi;Java+%7C+Web+Dev+%7C+AI%2FML+Enthusiast;From+Hello+World+to+Dream+Projects+💫" />
 </p>
 
 ---
@@ -38,16 +36,18 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Somiya-Chaturvedi&show_icons=true&theme=dracula&hide_border=false&count_private=true&rank_icon=github" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Somiya-Chaturvedi&layout=compact&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Somiya-Chaturvedi&show_icons=true&theme=pinky&hide_border=false&count_private=true&rank_icon=github" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Somiya-Chaturvedi&layout=compact&theme=pinky&hide_border=false" height="150" />
 </div>
 
 ---
 
-<!-- Quote or Tagline -->
+<!-- Quote -->
 <p align="center">💫 <i>From “Hello World” to “Dream Projects.”</i> 🌱</p>
 
-<!-- Optional Banner -->
+---
+
+<!-- Soft Aesthetic Coder GIF -->
 <div align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Banner" height="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2k2Y3BmbjA2M21hNXR2bWMyM2N0eDFuNm50ZzVvN2xka2FvZHN5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HgGkzG9a2u4A2j2Af1/giphy.gif" height="250" alt="Cute Coding Girl GIF" />
 </div>
