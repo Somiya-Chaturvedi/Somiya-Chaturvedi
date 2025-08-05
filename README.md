@@ -1,3 +1,5 @@
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Somiya-Chaturvedi/Somiya-Chaturvedi/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Somiya-Chaturvedi/Somiya-Chaturvedi/output/pacman-contribution-graph.svg">
@@ -47,6 +49,8 @@
 <p align="center">💫 From “Hello World” to “Dream Projects.”</p>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img height="200" src="https://pin.it/2iSsCaMDc"  />
