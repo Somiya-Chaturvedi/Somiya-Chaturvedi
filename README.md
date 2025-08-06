@@ -14,10 +14,9 @@
 
 <!-- Social Icons -->
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" /></a>
-  <a href="https://twitter.com/YOUR-LINK" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" /></a>
-  <a href="https://discordapp.com/users/YOUR-ID" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" /></a>
-  <a href="https://hackerrank.com/YOUR-ID" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/somiya-chaturvedi-a447662a2" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" /></a>
+  <a href="https://twitter.com/https://twitter.com/somiyachat69102" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" /></a>
+  <a href="https://hackerrank.com/https://www.hackerrank.com/profile/somiyac730" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="40" /></a>
 </div>
 
 ---
