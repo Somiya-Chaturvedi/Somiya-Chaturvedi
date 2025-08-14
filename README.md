@@ -1,61 +1,51 @@
-<!-- Header GIF -->
+
+<!-- Header Animation -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2k2Y3BmbjA2M21hNXR2bWMyM2N0eDFuNm50ZzVvN2xka2FvZHN5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HgGkzG9a2u4A2j2Af1/giphy.gif" height="250" alt="A cute animated girl coding on her laptop">
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Matrix style coding animation"/>
 </p>
 
-<!-- Typing Animation -->
+<div align="center">
+
+Somiya Chaturvedi
+Java Developer | Web Enthusiast | AI/ML Explorer
+</div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F4C2C2&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Somiya+Chaturvedi;Java+%7C+Web+Dev+%7C+AI%2FML+Enthusiast;From+Hello+World+to+Dream+Projects+💫" />
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DSomiya-Chaturvedi%26label%3DVIEWS%26color%3D8be9fd%26style%3Dflat-square" alt="Profile views counter" />
 </p>
 
-🤝 Connect with Me
+🚀 Languages and Tools
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,javascript,react,html,css,git,github,idea,vscode,canva%26theme%3Ddark%26perline%3D5" />
+</a>
+</p>
+
+🔗 Connect with Me
 <p align="center">
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/somiya-chaturvedi-a447662a2/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="45" alt="LinkedIn" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
 </a>
 &nbsp;
 <a href="https://www.google.com/search?q=https://twitter.com/somiyachat69102" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="45" alt="Twitter" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter Badge"/>
 </a>
 &nbsp;
 <a href="https://www.google.com/search?q=https://www.hackerrank.com/profile/somiyac730" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="45" height="45" alt="HackerRank" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-HackerRank-2EC866%3Fstyle%3Dfor-the-badge%26logo%3DHackerRank%26logoColor%3Dwhite" alt="HackerRank Badge"/>
 </a>
 </p>
 
-💻 My Tech Stack
+📈 GitHub Stats & Activity
 <p align="center">
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" alt="Java" title="Java"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript"/>
-&nbsp;&nbsp;
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" alt="React" title="React"/>
-&nbsp;&nbsp;
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50" alt="HTML5" title="HTML5"/>
-&nbsp;&nbsp;
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" alt="CSS3" title="CSS3"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="Canva" title="Canva"/>
-</p>
-
-📊 My GitHub Stats
-<p align="center">
-<!-- GitHub Stats Card -->
-<a href="https://www.google.com/search?q=https://github.com/Somiya-Chaturvedi/github-readme-stats">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSomiya-Chaturvedi%26show_icons%3Dtrue%26theme%3Dgithub_dark%26hide_border%3Dtrue%26count_private%3Dtrue%26rank_icon%3Dgithub" height="160" alt="Somiya's GitHub Stats"/>
-</a>
+<!-- GitHub Stats & Top Languages -->
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSomiya-Chaturvedi%26show_icons%3Dtrue%26theme%3Dcatppuccin_dark%26hide_border%3Dtrue%26count_private%3Dtrue%26rank_icon%3Dgithub" height="180" alt="Somiya's GitHub Stats"/>
 &nbsp;
-<!-- Top Languages Card -->
-<a href="https://www.google.com/search?q=https://github.com/Somiya-Chaturvedi/github-readme-stats">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DSomiya-Chaturvedi%26layout%3Dcompact%26theme%3Dgithub_dark%26hide_border%3Dtrue" height="160" alt="Top Languages"/>
-</a>
-<br/>
-<!-- GitHub Streak Stats -->
-<a href="https://git.io/streak-stats">
-<img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3DSomiya-Chaturvedi%26theme%3Ddark%26hide_border%3Dtrue" height="160" alt="GitHub Streak"/>
-</a>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSomiya-Chaturvedi%26layout%3Dcompact%26theme%3Dcatppuccin_dark%26hide_border%3Dtrue" height="180" alt="Top Languages"/>
+<br/><br/>
+<!-- GitHub Activity Graph -->
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DSomiya-Chaturvedi%26theme%3Dcatppuccin_dark%26hide_border%3Dtrue%26hide_title%3Dfalse%26area%3Dtrue%26line%3Dcba6f7%26point%3D89b4fa" width="100%" alt="GitHub Activity Graph"/>
 </p>
 
 <p align="center">
