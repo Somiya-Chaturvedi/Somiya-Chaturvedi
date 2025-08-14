@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Colorful Banner with 3 Idiots vibe -->
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="100%" alt="3 Idiots Inspiration Banner"/>
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" alt="3 idiots coding vibe banner"/>
 
 <!-- Avatar + Name -->
 <img src="https://avatars.githubusercontent.com/Somiya-Chaturvedi" width="150" style="border-radius:50%; border: 4px solid #8BE9FD;" alt="Profile Picture"/>
