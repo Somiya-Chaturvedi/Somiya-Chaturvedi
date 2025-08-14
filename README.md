@@ -44,13 +44,3 @@ _Java | Web Enthusiast | AI/ML Explorer | Life-long Learner 📚_
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Somiya-Chaturvedi&bg_color=0d1117&color=8be9fd&line=ff79c6&point=f8f8f2&hide_border=true)
 
 ---
-
-## 🏆 Achievements
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Somiya-Chaturvedi&theme=radical&no-frame=true&margin-w=5&row=1"/>
-</p>
-
----
-
-**✨ “Success ke peeche mat bhaago, excellence ka peecha karo, success jhak maarke tumhare peeche aayegi.” – 3 Idiots**
-</div>
