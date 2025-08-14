@@ -3,11 +3,9 @@
 <!-- Colorful Banner with 3 Idiots vibe -->
 <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" alt="3 idiots coding vibe banner"/>
 
-<!-- Avatar + Name -->
-<img src="https://avatars.githubusercontent.com/Somiya-Chaturvedi" width="150" style="border-radius:50%; border: 4px solid #8BE9FD;" alt="Profile Picture"/>
-  
+
 # **Hi, I'm Somiya Chaturvedi 🎓**
-_Java Developer | Web Enthusiast | AI/ML Explorer | Life-long Learner 📚_
+_Java | Web Enthusiast | AI/ML Explorer | Life-long Learner 📚_
 
 ---
 
