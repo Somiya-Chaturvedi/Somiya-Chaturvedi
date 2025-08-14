@@ -19,7 +19,7 @@ _Java Developer | Web Enthusiast | AI/ML Explorer | Life-long Learner 📚_
 ---
 
 ## 🚀 Skills & Tools
-<img src="https://skillicons.dev/icons?i=java,javascript,react,html,css,git,github,vscode,canva,python,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,javascript,react,html,css,git,github,vscode,python,mysql&theme=dark" />
 
 ---
 
