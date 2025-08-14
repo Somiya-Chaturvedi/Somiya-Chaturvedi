@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Colorful Banner with Harry Potter vibe -->
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" alt="Harry Potter coding vibe banner"/>
+<!-- Colorful Banner with 3 Idiots vibe -->
+<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="100%" alt="3 Idiots Inspiration Banner"/>
 
 <!-- Avatar + Name -->
 <img src="https://avatars.githubusercontent.com/Somiya-Chaturvedi" width="150" style="border-radius:50%; border: 4px solid #8BE9FD;" alt="Profile Picture"/>
   
-# **Hi, I'm Somiya Chaturvedi 🪄**
-_Java Developer | Web Enthusiast | AI/ML Explorer | Potterhead ⚡_
+# **Hi, I'm Somiya Chaturvedi 🎓**
+_Java Developer | Web Enthusiast | AI/ML Explorer | Life-long Learner 📚_
 
 ---
 
@@ -35,9 +35,9 @@ _Java Developer | Web Enthusiast | AI/ML Explorer | Potterhead ⚡_
 
 ---
 
-## 🪄 Magic Touch – Harry Potter Animation
+## 🎬 3 Idiots Inspiration
 <p align="center">
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="Harry Potter Magic Animation"/>
+<img src="https://media.giphy.com/media/l4pTdcifPZLpDjL1e/giphy.gif" width="400" alt="3 Idiots Movie Animation"/>
 </p>
 
 ---
@@ -54,5 +54,5 @@ _Java Developer | Web Enthusiast | AI/ML Explorer | Potterhead ⚡_
 
 ---
 
-**✨ “I solemnly swear I am up to no good.” – Harry Potter**
+**✨ “Success ke peeche mat bhaago, excellence ka peecha karo, success jhak maarke tumhare peeche aayegi.” – 3 Idiots**
 </div>
