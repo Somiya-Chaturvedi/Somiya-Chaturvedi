@@ -32,8 +32,15 @@
 </div>
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=octocat&theme=dark)](https://git.io/streak-stats)
 
+<!-- My GitHub Stats -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Somiya-Chaturvedi&show_icons=true" />
+  <img src="https://streak-stats.demolab.com?user=Somiya-Chaturvedi&theme=dark" />
+</p>
+ 
+---
 
 <!-- GitHub Stats -->
 <div align="center">
