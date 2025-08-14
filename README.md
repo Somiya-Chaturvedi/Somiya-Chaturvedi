@@ -32,6 +32,8 @@
 </div>
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com?user=octocat&theme=dark)](https://git.io/streak-stats)
+
 
 <!-- GitHub Stats -->
 <div align="center">
