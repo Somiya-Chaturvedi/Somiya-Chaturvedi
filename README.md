@@ -37,8 +37,8 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Somiya-Chaturvedi&show_icons=true&theme=pinky&hide_border=false&count_private=true&rank_icon=github" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Somiya-Chaturvedi&layout=compact&theme=pinky&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Somiya-Chaturvedi&show_icons=true&theme=dark&hide_border=false&count_private=true&rank_icon=github" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Somiya-Chaturvedi&layout=compact&theme=dark&hide_border=false" height="150" />
 </div>
 
 ---
