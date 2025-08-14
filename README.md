@@ -33,7 +33,7 @@ _Java | Web Enthusiast | AI/ML Explorer | Life-long Learner 📚_
 
 ---
 
-## 🎬 3 Idiots Inspiration
+
 <p align="center">
 <img src="https://media.giphy.com/media/l4pTdcifPZLpDjL1e/giphy.gif" width="400" alt="3 Idiots Movie Animation"/>
 </p>
