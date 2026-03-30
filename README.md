@@ -22,20 +22,6 @@ I'm a computer science student who enjoys turning ideas into working projects. I
 
 ---
 
-### GitHub Stats
-
-![Somiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Somiya-Chaturvedi&show_icons=true&hide_border=true&theme=dark&count_private=true&bg_color=0d1117)
-
----
-
-### Contribution Calendar
-
-![GitHub Contribution Calendar](https://ghchart.rshah.org/39d353/Somiya-Chaturvedi)
-
-> 🟩 Each square = 1 day of contribution &nbsp;|&nbsp; Darker = more contributions
-
----
-
 ### Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/somiya-chaturvedi-a447662a2/)
