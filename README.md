@@ -1,46 +1,37 @@
-<div align="center">
+# Hi, I'm Somiya Chaturvedi 👋
 
-<!-- Colorful Banner with 3 Idiots vibe -->
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" alt="3 idiots coding vibe banner"/>
-
-
-# **Hi, I'm Somiya Chaturvedi 🎓**
-_Java | Web Enthusiast | AI/ML Explorer | Life-long Learner 📚_
+CS fresher passionate about building things with code. Currently exploring Java, Web Development, and AI/ML.
 
 ---
 
-<!-- Social Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somiya-chaturvedi-a447662a2/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/somiyachat69102)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/somiyac730)
+### 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somiya-chaturvedi-a447662a2/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/somiyachat69102)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/somiyac730)
 
 ---
 
-## 🚀 Skills & Tools
-<img src="https://skillicons.dev/icons?i=java,javascript,react,html,css,git,github,vscode,python,mysql&theme=dark" />
+### 🛠️ Skills
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 📊 GitHub Statistics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Somiya-Chaturvedi&theme=radical&show_icons=true&hide_border=true&count_private=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Somiya-Chaturvedi&theme=radical&hide_border=true" height="180"/>
-</p>
+### 📊 Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Somiya-Chaturvedi&layout=compact&theme=radical&hide_border=true" height="150"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Somiya-Chaturvedi&show_icons=true&hide_border=true&theme=default&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Somiya-Chaturvedi&layout=compact&hide_border=true&theme=default" height="160"/>
 
 ---
 
-
-<p align="center">
-<img src="https://media.giphy.com/media/l4pTdcifPZLpDjL1e/giphy.gif" width="400" alt="3 Idiots Movie Animation"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Somiya-Chaturvedi&bg_color=0d1117&color=8be9fd&line=ff79c6&point=f8f8f2&hide_border=true)
-
----
+### 🌱 Currently
+- Practicing DSA in Java
+- Building projects 
+- Learning ML basics
+- Open to internships & fresher roles
